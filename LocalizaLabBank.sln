@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalizaLabBank", "LocalizaLabBank\LocalizaLabBank.csproj", "{0F91724C-EC4C-4B09-87FD-9ACE69CFE16F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizaBankaApi", "LocalizaBankaApi\LocalizaBankaApi.csproj", "{7959F327-1387-4955-B2B7-1F3137AEB80C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F91724C-EC4C-4B09-87FD-9ACE69CFE16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F91724C-EC4C-4B09-87FD-9ACE69CFE16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F91724C-EC4C-4B09-87FD-9ACE69CFE16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F91724C-EC4C-4B09-87FD-9ACE69CFE16F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7959F327-1387-4955-B2B7-1F3137AEB80C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7959F327-1387-4955-B2B7-1F3137AEB80C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7959F327-1387-4955-B2B7-1F3137AEB80C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7959F327-1387-4955-B2B7-1F3137AEB80C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8DC07AA-57CC-484C-85B3-5F318FF0C82E}
+	EndGlobalSection
+EndGlobal

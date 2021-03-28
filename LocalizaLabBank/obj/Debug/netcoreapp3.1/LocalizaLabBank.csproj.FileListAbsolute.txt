@@ -1,0 +1,13 @@
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\obj\Debug\netcoreapp3.1\LocalizaLabBank.csprojAssemblyReference.cache
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\obj\Debug\netcoreapp3.1\LocalizaLabBank.AssemblyInfoInputs.cache
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\obj\Debug\netcoreapp3.1\LocalizaLabBank.AssemblyInfo.cs
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\obj\Debug\netcoreapp3.1\LocalizaLabBank.csproj.CoreCompileInputs.cache
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\bin\Debug\netcoreapp3.1\LocalizaLabBank.exe
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\bin\Debug\netcoreapp3.1\LocalizaLabBank.deps.json
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\bin\Debug\netcoreapp3.1\LocalizaLabBank.runtimeconfig.json
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\bin\Debug\netcoreapp3.1\LocalizaLabBank.runtimeconfig.dev.json
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\bin\Debug\netcoreapp3.1\LocalizaLabBank.dll
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\bin\Debug\netcoreapp3.1\LocalizaLabBank.pdb
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\obj\Debug\netcoreapp3.1\LocalizaLabBank.dll
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\obj\Debug\netcoreapp3.1\LocalizaLabBank.pdb
+C:\Users\gelva\source\repos\LocalizaLabBank\LocalizaLabBank\obj\Debug\netcoreapp3.1\LocalizaLabBank.genruntimeconfig.cache
